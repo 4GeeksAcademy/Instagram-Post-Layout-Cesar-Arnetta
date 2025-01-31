@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    font-family: "roboto";
+  }
+p {
+    font-size: 18px;
+}
+div {
+    font-size: 18px;
+}
+  .container {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+  }
+  .square-image img {
+    object-fit: cover;
+    width: 600px;
+    height: 400px;
+  }
+  .icons-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .icons {
+    display: flex;
+    justify-content: space-between;
+  }
+  .box {
+    width: 15px;
+    height: 15px;
+    padding: 15px;
+  }
+  .box1 {
+    width: 15px;
+    height: 15px;
+    padding: 15px 30px 15px 15px;
+  }
+  .text {
+    padding: 15px;
+    text-align: justify;
+  }
